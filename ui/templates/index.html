@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container">
+    <div class="task-form">
+        <h2>Enter Task Description</h2>
+        <textarea id="taskDescription" rows="4" placeholder="Enter task description here..."></textarea>
+        <button onclick="classifyTask()">Classify Task</button>
+    </div>
+    <div class="result-section" id="resultSection">
+        <h3>Classification Result:</h3>
+        <p id="resultText"></p>
+        <p id="categoryResult"></p>
+    </div>
+</div>
+{% endblock %}
