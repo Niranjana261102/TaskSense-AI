@@ -59,5 +59,5 @@
 
 🎥 Watch the project in action: 
 
-<video src="video/Project_run.mp4" controls></video>
+<video src="video/Screen%20Recording%202025-06-28%20185014.mp4" controls></video>
 
