@@ -59,5 +59,5 @@
 
 🎥 Watch the project in action: 
 
-<video src="video/Screen%20Recording%202025-06-28%20185014.mp4" controls></video>
+📥 [Download Demo Video]([https://github.com/Niranjana261102/TaskSense-AI/blob/main/video/Screen%20Recording%202025-06-28%20185014.mp4?raw=true])
 
